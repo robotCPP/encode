@@ -1,4 +1,10 @@
-a's code:00
-c's code:01
-b's code:10
-d's code:11
+ 's code:00
+l's code:010
+v's code:011
+o's code:100
+
+'s code:1010
+!'s code:1011
+e's code:1100
+I's code:1101
+3's code:111

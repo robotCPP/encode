@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1450839764 source:/home/breakpoint/Documents/ACMCode/encode/main.cpp
+1450953300 source:/home/breakpoint/Documents/ACMCode/encode/main.cpp
 	<stdio.h>
 	<vector>
 	<queue>
@@ -7,4 +7,6 @@
 	<iostream>
 	<stack>
 	<string>
+	<ostream>
+	<fstream>
 
